@@ -1,6 +1,6 @@
 # Hi and Welcome!
 
-I'm Luis Costa, an undergraduate student of Computer Science on Veiga de Almeida Uni. on Brazil.
+I'm Luis Costa, an undergraduate student of Computer Science on Veiga de Almeida Uni. at Brazil.
 I'm interested in Java and CSharp, and some times I fumble on some tech security reading, trying to understand and failing, but it's a learning process, right?
 
 #### Social Media:
